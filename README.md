@@ -118,3 +118,16 @@ Human judgment and validation were applied to all code and design decisions.
 
 This project is licensed under the **MIT License**.
 
+---
+
+## My AI Usage
+
+I used AI tools such as ChatGPT to help with:
+- Understanding project requirements
+- Writing boilerplate backend and frontend code
+- Debugging errors and improving code quality
+- Structuring tests and documentation
+
+All AI-generated content was reviewed and modified by me.
+Final implementation and decisions were made independently.
+
